@@ -1,0 +1,5 @@
+{
+  "name": "GourmetLens AI",
+  "description": "A virtual food photographer for restaurant owners. Generate high-end, realistic food photography from menu descriptions using Gemini 3 Pro, and edit them to perfection with Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
